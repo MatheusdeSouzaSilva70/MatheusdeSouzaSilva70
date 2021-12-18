@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Matheus de Souza Silva
 
-- 🔭 Estudando para Trabalhar com front-end
+- 🔭 Estudando para Trabalhar com Front-End,Banco de Dados
 - 🌱 Cursando:Tecn em Sistemas Para Internet 
 - 😄 Pronouns:ele/dele
 
