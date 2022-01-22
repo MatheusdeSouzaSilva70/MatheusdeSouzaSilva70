@@ -1,8 +1,9 @@
 ### Olá! Meu nome é Matheus de Souza Silva
 
-- 🔭 Estudando para Trabalhar com Front-End,Banco de Dados
-- 🌱 Cursando:Tecn em Sistemas Para Internet 
-- 😄 Pronouns:ele/dele
+- 🧑‍💻 Cursando: Analise Sistema para Internet
+- 💻 Programador/Desenvolvedor- Front-end 
+- ⚠️ HTML,CSS,JAVASCRIPT,ReactJS
+
 <div><img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
 	width="400px"
