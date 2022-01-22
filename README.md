@@ -3,7 +3,13 @@
 - 🔭 Estudando para Trabalhar com Front-End,Banco de Dados
 - 🌱 Cursando:Tecn em Sistemas Para Internet 
 - 😄 Pronouns:ele/dele
-
+<div><img
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
+	width="400px"
+	height="390px"
+	align="right"
+          </div>
+  
 <div align="center">
   <a href="https://github.com/matheusdesouzasilva70">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheusdesouzasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,3 +34,14 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+
+### Frases que digo a mim mesmo
+
+- **_Se você pode sonhar, você pode alcançá-lo._**
+- **_Algo só é impossível até que seja feito._**
