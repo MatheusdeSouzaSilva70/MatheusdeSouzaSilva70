@@ -1,8 +1,10 @@
 ### Olá! Meu nome é Matheus de Souza Silva
 
-- 🧑‍💻 Cursando: Analise Sistema para Internet
-- 💻 Programador/Desenvolvedor- Front-end 
-- ⚠️ HTML,CSS,JAVASCRIPT,ReactJS
+- 😃 Nome: Matheus de Souza Silva.
+- 🥳 idade:20 anos.
+- 🧑‍💻 Cursando: Analise Sistema para Internet.
+- 💻 Programador/Desenvolvedor- Front-end.
+- ⚠️ Estudando:HTML,CSS,JAVASCRIPT,ReactJS.
 
 <div><img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
