@@ -4,7 +4,7 @@
 - 🥳 idade:20 anos.
 - 🧑‍💻 Cursando: Analise Sistema para Internet.
 - 💻 Programador/Desenvolvedor- Front-end.
-- ⚠️ Estudando: HTML , CSS , JAVASCRIPT , ReactJS.
+- ⚠️ Estudando: HTML , CSS , JAVASCRIPT , React JS , Python
 
 <div><img
 	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
