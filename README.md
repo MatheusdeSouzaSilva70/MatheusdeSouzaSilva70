@@ -46,4 +46,3 @@
 ### Frases que digo a mim mesmo
 
 - **_Se você pode sonhar, você pode alcançá-lo._**
-- **_Algo só é impossível até que seja feito._**
