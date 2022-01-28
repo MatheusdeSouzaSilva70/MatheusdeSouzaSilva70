@@ -38,3 +38,5 @@
 - **_Se você pode sonhar, você pode alcançá-lo._**
 - **_"Você é o seu unico Limite"_**
 - **_"O seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa..."_**
+- **_"A meta sempre foi ser melhor do que fui ontem,
+Não melhor do que alguém  hoje "_**
