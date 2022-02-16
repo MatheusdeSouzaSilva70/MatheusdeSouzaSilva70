@@ -2,7 +2,7 @@
 
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
-- 🧑‍💻 Cursando: Analise Sistema para Internet.
+- 🧑‍💻 Analise Sistema para Internet.
 - ☕ Habilidades: HTML, CSS, Javascript, ReactJs.
 - 💼 Ferramentas:VS Code,Github.
 </br>
