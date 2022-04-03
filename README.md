@@ -45,5 +45,5 @@ Não melhor do que alguém  hoje "_**
 		
 
      
- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96348810/161438284-10524158-7bcc-41b3-8b34-32ad090b854f.gif) 
+) 
    
