@@ -42,8 +42,5 @@
  outros tem medo do seu potencial"_**
 - **_"A meta sempre foi ser melhor do que fui ontem,
 Não melhor do que alguém  hoje "_**
-		
-
-     
-) 
+	
    
