@@ -1,11 +1,13 @@
-### Olá! Meu nome é Matheus de Souza Silva
+ ### Olá! Meu nome é 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Matheus+de+Souza+Silva)](https://github.com/MatheusdeSouzaSilva70)
 
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
-- 🧑‍💻 Técnico Sistema para Internet.
+-  💻 Técnico Sistema para Internet.
 - ☕ Habilidades: HTML, CSS, Javascript.
-- 💼 Ferramentas: VS Code, Github.
+- 💼 Ferramentas: VS Code, Git, Github.
 </br>
+
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 ### <p align="center">💻 Programador Front-End Web Developer</p>
