@@ -7,7 +7,6 @@
 - ☕ Habilidades: HTML, CSS, Javascript.
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
-
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 ### <p align="center">💻 Programador Front-End Web Developer</p>
@@ -43,3 +42,8 @@
  outros tem medo do seu potencial"_**
 - **_"A meta sempre foi ser melhor do que fui ontem,
 Não melhor do que alguém  hoje "_**
+		
+
+     
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96348810/161438284-10524158-7bcc-41b3-8b34-32ad090b854f.gif) 
+   
