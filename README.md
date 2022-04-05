@@ -7,17 +7,31 @@
 - ☕ Habilidades: HTML, CSS, Javascript.
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
+
+
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+
+<div align="center">
+  <a href="https://matheusdesouzasilva70.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
+</div>
 
 ### <p align="center">💻 Programador Front-End Web Developer</p>
 
 </br>
-  <div align="center">
-	<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-	<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-	<div align"center">
-  
+ 
+</br>
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Matheus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="Matheus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Matheus-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+	
+  <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<div align="center"> 
+
 <div align="center">
   <a href="https://github.com/matheusdesouzasilva70">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Matheusdesouzasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
