@@ -17,9 +17,7 @@
 
 ### <p align="center">💻 Programador Front-End Web Developer</p>
 
-</br>
- 
-</br>
+
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Matheus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -31,7 +29,7 @@
 </div>
 
 <div align="center"> 
-
+</br>
 <div align="center">
   <a href="https://github.com/matheusdesouzasilva70">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Matheusdesouzasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,14 +38,12 @@
   </br>
    <a href = "mailto:matheussouzasilva628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-de-souza-silva-288194229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
+       
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <hr/>
 <img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">   
 	
-
 ### "Frases motivacionais"
 
 - **_Se você pode sonhar, você pode alcançá-lo._**
@@ -56,5 +52,8 @@
  outros tem medo do seu potencial"_**
 - **_"A meta sempre foi ser melhor do que fui ontem,
 Não melhor do que alguém  hoje "_**
-	
-   
+
+</br>
+
+  ### <p align="center">💻 Visitantes no Perfil </p>
+ <img align="relative" src="https://profile-counter.glitch.me/MatheusdeSouzaSilva70/count.svg" > 
