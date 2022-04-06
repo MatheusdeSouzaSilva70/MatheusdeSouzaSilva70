@@ -4,7 +4,7 @@
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
 -  💻 Técnico Sistema para Internet.
-- ☕ Habilidades: HTML, CSS, Javascript.
+- ☕ Habilidades: HTML, CSS, Javascript, Bootstrap
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
 
