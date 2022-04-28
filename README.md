@@ -4,7 +4,7 @@
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
 -  💻 Técnico Sistema para Internet.
-- ☕ Habilidades: HTML, CSS, Javascript, Bootstrap
+- ☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
 
@@ -27,10 +27,11 @@
 
   <img align="center" alt="Matheus-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	
-  <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />	
 	
- <img align="center" alt="Beta-Bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+  <img align="center" alt="Beta-Bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+	
+  <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <div align="center"> 
