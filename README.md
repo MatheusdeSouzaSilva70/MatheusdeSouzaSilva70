@@ -30,19 +30,18 @@
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-	
-
-	
+		
   <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
-<div align="center"> 
-</br>
-<div align="center">
-  <a href="https://github.com/matheusdesouzasilva70">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva&layout=compact&langs_count=7&theme=dracula"/>
+jj
+🔧 | **GitHub Estatísticas**
+<div>
+  <a href="https://github.com/lellismaria">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<br/>
+&nbsp;
  
   ### <p align="center">Contato</p>
   
