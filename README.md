@@ -1,10 +1,12 @@
  ### Olá! Meu nome é 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Matheus+de+Souza+Silva)](https://github.com/MatheusdeSouzaSilva70)
 
+<h3>  | &nbsp;Um pouco sobre mim: </h3>
+
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
--  💻 Técnico Sistema para Internet.
-- ☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap
+-  💻 Técnico Sistema para Internet na <a href="https://inscricoes.unicesumar.edu.br/">Faculdade Unicesumar</a>.
+- ☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap.
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
 
