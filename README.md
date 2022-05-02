@@ -33,8 +33,8 @@
 		
   <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-jj
-🔧 | **GitHub Estatísticas**
+
+⚙️🔧 | **GitHub Estatísticas**
 <div>
   <a href="https://github.com/lellismaria">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
