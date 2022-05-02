@@ -11,13 +11,13 @@
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
-
 ### <p align="center">💻 Programador Front-End Web Developer</p>
 <div align="center">
   <a href="https://matheusdesouzasilva70.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
 </div>
 
  <div style="display: inline_block" align="center">
+	
 	
 ### <p align="center">Skills</p>
 	
@@ -30,27 +30,20 @@
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-		
-  <img align="center" alt="Matheus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-⚙️🔧 | **GitHub Estatísticas**
+	
+</br>⚙️🔧 | **GitHub Estatísticas**
 <div>
   <a href="https://github.com/lellismaria">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<br/>
-&nbsp;
- 
+	
   ### <p align="center">Contato</p>
   
    <a href = "mailto:matheussouzasilva628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-de-souza-silva-288194229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       
-
-  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <hr/>
