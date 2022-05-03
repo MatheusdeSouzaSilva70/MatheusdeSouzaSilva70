@@ -33,12 +33,7 @@
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 	
-</br>⚙️🔧 | **GitHub Estatísticas**
-<div>
-  <a href="https://github.com/matheusdeSouzaSilva70">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+
 	
   ### <p align="center">Contato</p>
   
