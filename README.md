@@ -5,7 +5,7 @@
 
 - 😃 Nome: Matheus de Souza Silva.
 - 🥳 idade:20 anos.
--  💻 Técnico Sistema para Internet na <a href="https://inscricoes.unicesumar.edu.br/">Faculdade Unicesumar</a>.
+-  💻 Técnico Sistema para Internet na Faculdade Unicesumar
 - ☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap.
 - 💼 Ferramentas: VS Code, Git, Github.
 </br>
