@@ -2,10 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Matheus+de+Souza+Silva)](https://github.com/MatheusdeSouzaSilva70)
 
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
-</br>
+
 <p align="left">
 	   - Nome: MAtheus de Souza Silva
-	
 <p align="left">
 	🥳 idade:20 anos
 	
