@@ -21,7 +21,7 @@
  <div style="display: inline_block" align="center">
 	
 	
-### </br> <p align="center">Skills</p>
+###  <p align="center">Skills</p>
 	
   <img align="center" alt="Matheus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -33,14 +33,14 @@
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-###  </br>🖥️📝| **Atualmente estudando**</p>
+###  🖥️📝| **Atualmente estudando**</p>
 <div>
 
  <img align="center" alt="Matheus-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-###  </br>⚙️🔧| **GitHub Estatísticas** </p>
+###  ⚙️🔧| **GitHub Estatísticas** </p>
 <div>
   <a href="https://github.com/matheusdeSouzaSilva70">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
