@@ -40,7 +40,7 @@
 	
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-###  </br>⚙️🔧 | **GitHub Estatísticas** </p>
+###  </br>⚙️🔧| **GitHub Estatísticas** </p>
 <div>
   <a href="https://github.com/matheusdeSouzaSilva70">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
