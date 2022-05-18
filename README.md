@@ -33,7 +33,7 @@
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-###  🖥️📝| **Atualmente estudando**</p>
+###  📝💻| **Atualmente estudando**</p>
 <div>
 
  <img align="center" alt="Matheus-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
