@@ -33,7 +33,7 @@
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-</br>| 📝🧑‍💻**Atualmente estudando**
+</br>| 🖥️📝**Atualmente estudando**
 
 </br>⚙️🔧 | **GitHub Estatísticas**
 <div>
