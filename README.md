@@ -2,14 +2,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Matheus+de+Souza+Silva)](https://github.com/MatheusdeSouzaSilva70)
 
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
-
-- 😃 Nome: Matheus de Souza Silva.
-- 🥳 idade:20 anos.
--  💻 Cursando: Técnico Sistema para Internet, na Faculdade Unicesumar
-- ☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap.
-- 💼 Ferramentas: VS Code, Git, Github.
 </br>
+<p align="left">
+	   - Nome: MAtheus de Souza Silva
+	
+<p align="left">
+	🥳 idade:20 anos
+	
+<p align="left">
+	 💻 Cursando: Técnico Sistema para Internet, na Faculdade Unicesumar
+		
+<p align="left">
+	☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap.
+	
+<p align="left">
+ 💼 Ferramentas: VS Code, Git, Github.
+</p>
 
+<br>
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
