@@ -32,7 +32,8 @@
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
   <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-	
+</br>| **Atualmente estudando**
+
 </br>⚙️🔧 | **GitHub Estatísticas**
 <div>
   <a href="https://github.com/matheusdeSouzaSilva70">
