@@ -12,7 +12,7 @@
 	 💻 Cursando: Técnico Sistema para Internet, na Faculdade Unicesumar
 		
 <p align="left">
-	☕ Habilidades: HTML, CSS, Javascript, React, Bootstrap.
+	☕ Habilidades: HTML, CSS, Javascript, ReactJs, VueJs, Bootstrap.
 	
 <p align="left">
  💼 Ferramentas: VS Code, Git, Github.
