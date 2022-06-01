@@ -55,13 +55,17 @@
   
 ###  ⚙️🔧| **GitHub Estatísticas** </p>
 <div>
+	
   <a href="https://github.com/matheusdeSouzaSilva70">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
-</div>	
+	  
+<img align="center" alt="Matheus-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
+	</div>	
 
 	
-  ### <p align="center">Contato</p>
+### <p align="center">Contato</p>
   
    <a href = "mailto:matheussouzasilva628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-de-souza-silva-288194229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
