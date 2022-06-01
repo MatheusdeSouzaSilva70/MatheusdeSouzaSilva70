@@ -52,17 +52,21 @@
  <img align="center" alt="Matheus-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	
   <img align="center" alt="Luiz-ReactJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img align="center" alt="Matheus-VueJS" height="40" width="50" 
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
   
 ###  ⚙️🔧| **GitHub Estatísticas** </p>
 <div>
 	
   <a href="https://github.com/matheusdeSouzaSilva70">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzasilva70&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
 	  
-<img align="center" alt="Matheus-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzasilva70&layout=compact&langs_count=7&theme=github_dark"/>
+	  
+</div>
 
-	</div>	
+	
 
 	
 ### <p align="center">Contato</p>
