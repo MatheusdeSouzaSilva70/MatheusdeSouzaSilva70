@@ -44,7 +44,7 @@
 <img align="center" alt="Matheus-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
 
-  <img  align="center" alt="Matheus-Boostrap "height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img  align="center" alt="Matheus-Boostrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 ###  📝💻| **Atualmente estudando**</p>
 <div>
