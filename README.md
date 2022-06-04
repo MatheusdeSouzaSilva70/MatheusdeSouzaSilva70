@@ -6,16 +6,16 @@
 <p align="left">
 	   - Nome: MAtheus de Souza Silva
 <p align="left">
-	🥳 idade:20 anos
+	   - 🥳 idade:20 anos
 	
 <p align="left">
-	 💻 Cursando: Técnico em Sistemas para Internet-Unicesumar
+	  - 💻 Cursando: Técnico em Sistemas para Internet-Unicesumar
 		
 <p align="left">
-	☕ Habilidades: HTML, CSS, Javascript, ReactJs, VueJs, Bootstrap.
+	  - ☕ Habilidades: HTML, CSS, Javascript, ReactJs, VueJs, Bootstrap.
 	
 <p align="left">
- 💼 Ferramentas: VS Code, Git, Github.
+           -💼 Ferramentas: VS Code, Git, Github.
 </p>
 
 <br>
