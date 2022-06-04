@@ -9,7 +9,7 @@
 	🥳 idade:20 anos
 	
 <p align="left">
-	 💻 Cursando: Técnico Sistemas para Internet, na Faculdade Unicesumar
+	 💻 Cursando: Técnico em Sistemas para Internet, na Faculdade Unicesumar
 		
 <p align="left">
 	☕ Habilidades: HTML, CSS, Javascript, ReactJs, VueJs, Bootstrap.
