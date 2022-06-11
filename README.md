@@ -15,7 +15,7 @@
 	  - 🧩 Habilidades: HTML, CSS, JavaScript, React.Js, Vue.Js, SQL, Bootstrap.
 	
 <p align="left">
-           -💼 Ferramentas: VS Code, Git, Github.
+          
 </p>
 
 <br>
