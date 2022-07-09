@@ -12,7 +12,7 @@
 	  - 💻 Cursando: Técnico em Sistemas para Internet - Unicesumar.
 		
 <p align="left">
-	  - 🧩 Habilidades: HTML, CSS, JavaScript, React.Js, Vue.Js, MySQL, SQL Server, Bootstrap.
+	  - 🧩 Habilidades: HTML5, CSS3, JavaScript, React.Js, Vue.Js, MySQL, SQL Server, Bootstrap, Git e Github.
 	
 <p align="left">
           
