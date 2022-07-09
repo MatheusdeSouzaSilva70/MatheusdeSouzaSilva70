@@ -4,7 +4,7 @@
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
 <p align="left">
-	   - Nome: MAtheus de Souza Silva
+	   - Nome: Matheus de Souza Silva
 <p align="left">
 	   - 🥳 idade: 20 anos
 	
