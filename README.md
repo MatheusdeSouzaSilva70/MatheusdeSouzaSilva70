@@ -93,12 +93,18 @@
 	
 ### "Frases motivacionais"
 
-- **_Se você pode sonhar, você pode alcançá-lo._**
+- **_"Se estiver sentindo desmotivado ou sentindo que não é 
+bom o suficiente incendeie seu coração  enxugue as lágrimas
+ e siga em frente ,o fluxo do tempo nunca para,ele não vai te 
+esperar enquanto você se afoga em tristeza"_**
+
+- **_"Se você pode sonhar, você pode alcançá-lo"._**
 - **_"Você é o seu unico Limite"_**
 - **_"Enquanto você dúvida de si mesmo,
  outros tem medo do seu potencial"_**
 - **_"A meta sempre foi ser melhor do que fui ontem,
 Não melhor do que alguém  hoje "_**
+
 
 </br>
 
