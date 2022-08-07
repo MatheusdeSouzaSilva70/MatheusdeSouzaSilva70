@@ -12,7 +12,7 @@
 	  - 💻 Cursando: Técnico em Sistemas para Internet - UniCesumar.
 		
 <p align="left">
-	  - 🧩 Habilidades: HTML5, CSS3, JavaScript, React.Js, Typescript, Vue.Js, Bootstrap, MySQL, Git e Github.
+	  - 🧩 Habilidades: HTML5, CSS3, JavaScript, React.Js, Typescript,Bootstrap, Git e Github.
 	
 <p align="left">
           
