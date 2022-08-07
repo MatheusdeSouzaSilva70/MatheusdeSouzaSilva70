@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/React.JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>	
 	
 ### <p align="center">☎💬|Contato</p>
+  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:matheussouzasilva628@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
   
    <a href = "mailto:matheussouzasilva628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-de-souza-silva-288194229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
