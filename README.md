@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jAVASCRIPT" />
-	 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+	
     <img src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs" />
     <img src="https://img.shields.io/badge/React.JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jAVASCRIPT" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs" />
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/React.JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>	
 	
 ### <p align="center">☎💬|Contato</p>
