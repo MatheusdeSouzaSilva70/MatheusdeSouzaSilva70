@@ -94,8 +94,8 @@
 ### "Frases motivacionais"
 
 - **_"Se estiver sentindo desmotivado ou sentindo que não é 
-bom o suficiente incendeie seu coração  enxugue as lágrimas
- e siga em frente ,o fluxo do tempo nunca para,ele não vai te 
+bom o suficiente incendeie seu coração enxugue as lágrimas
+ e siga em frente,o fluxo do tempo nunca para,ele não vai te 
 esperar enquanto você se afoga em tristeza"_**
 
 - **_"Se você pode sonhar, você pode alcançá-lo"._**
