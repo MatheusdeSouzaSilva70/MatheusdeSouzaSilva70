@@ -6,7 +6,7 @@
 <p align="left">
 	   - Nome: Matheus de Souza Silva
 <p align="left">
-	   - 🥳 idade: 20 anos
+	   - 🥳 idade: 20 anos👇
 	
 <p align="left">
 	  - 💻 Cursando: Técnico em Sistemas para Internet - UniCesumar.
