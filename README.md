@@ -51,7 +51,6 @@ Internet
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white""alt="typescript">
   <img src="https://img.shields.io/badge/React.JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
  	
 	
