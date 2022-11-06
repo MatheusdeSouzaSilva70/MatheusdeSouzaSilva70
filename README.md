@@ -13,7 +13,7 @@ Internet-(Cursando 6º Semestre)
 ⌨️Atualmente estou aprendendo React.Js e Typescript
 <p align="left">
 
-📚Eu tambem estou aprendendo ingles
+📚Eu tambem estou aprendendo inglês 
 <p align="left">
 
 🎵Gosto de estudar ouvindo música lofi
