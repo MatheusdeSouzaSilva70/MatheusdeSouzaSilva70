@@ -7,7 +7,7 @@
 Internet-(Cursando 6º Semestre)
 <p align="left">
 
-💻Também estou estudando na UniCesumar 
+💻Estou estudando na UniCesumar 
 <p align="left">
 
 ⌨️Atualmente estou aprendendo React.Js e Typescript
