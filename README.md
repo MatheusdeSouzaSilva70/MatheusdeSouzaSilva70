@@ -3,18 +3,23 @@
 
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
+🖥️Sou estudante de Técnico em Sistemas para 
+Internet
 <p align="left">
-	   - Nome: Matheus de Souza Silva
+
+💻Também estou estudando na UniCesumar 
 <p align="left">
-	   - 🥳 idade: 20 anos👇
-	
+
+⌨️Atualmente estou aprendendo React.Js e Typescript
 <p align="left">
-	  - 💻 Cursando: Técnico em Sistemas para Internet - UniCesumar.
-		
+
+📚Eu tambem estou aprendendo ingles
 <p align="left">
-	  - 🧩 Habilidades: HTML, CSS, JavaScript, React.Js, Typescript, Bootstrap, Git.
-	
+
+🎵Gosto de estudar ouvindo música lofi
 <p align="left">
+
+
           
 </p>
 
