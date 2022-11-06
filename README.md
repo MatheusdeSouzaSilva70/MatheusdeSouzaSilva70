@@ -4,7 +4,7 @@
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
 🖥️Sou estudante de Técnico em Sistemas para 
-Internet
+Internet-(Cursando 6º Semestre)
 <p align="left">
 
 💻Também estou estudando na UniCesumar 
