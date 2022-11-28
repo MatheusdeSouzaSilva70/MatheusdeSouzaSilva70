@@ -57,8 +57,11 @@ Internet-(Cursando 6º Semestre)
 ### <p align="center">☎💬|Contato</p> 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:matheussouzasilva628@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-    <a href="https://www.linkedin.com/in/matheus-de-souza-silva-1%C2%B0-288194229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>	
+	
+<a href="https://github.com/MatheusdeSouzaSilva70" alt="Linkedin" target="_blank">
+<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+</a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>	
 	
 	
 ###  💼 |**Ferramentas** </p>
