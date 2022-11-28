@@ -1,6 +1,7 @@
  ### Olá! Meu nome é 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Matheus+de+Souza+Silva)](https://github.com/MatheusdeSouzaSilva70)
-
+<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif">
+</div>
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
 🖥️Sou estudante de Técnico em Sistemas para 
@@ -18,7 +19,6 @@ Internet-(Cursando 6º Semestre)
 
 🎵Gosto de estudar ouvindo música lofi
 <p align="left">
-
 
           
 </p>
