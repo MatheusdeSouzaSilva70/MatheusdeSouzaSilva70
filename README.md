@@ -4,14 +4,14 @@
 </div>
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
-🖥️Sou estudante de Técnico em Sistemas para 
-Internet-(Cursando 2º Semestre)
+👨🏾‍🎓Sou forrmado como Técnico em Sistemas para 
+Internet
 <p align="left">
 
-💻Estou estudando na UniCesumar 
+ 👨🏾‍💻Formado na faculdade UniCesumar
 <p align="left">
 
-⌨️Atualmente estou aprendendo React.Js e Typescript
+⌨️Atualmente estou aprendendo JavaScript React.Js e Typescript
 <p align="left">
 
 📚⚠️Eu tambem estou aprendendo inglês 
