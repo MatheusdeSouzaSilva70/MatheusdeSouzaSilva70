@@ -11,7 +11,7 @@ Internet
  👨🏾‍💻Formado na faculdade UniCesumar
 <p align="left">
 
-⌨️Atualmente estou aprendendo JavaScript React.Js e Typescript
+⌨️Atualmente estou aprendendo JavaScript, React.Js e Typescript
 <p align="left">
 
 📚⚠️Eu tambem estou aprendendo inglês 
