@@ -4,7 +4,7 @@
 </div>
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
-👨🏾‍🎓Sou forrmado como Técnico em Sistemas para 
+👨🏾‍🎓Sou formado em Técnico em Sistemas para 
 Internet
 <p align="left">
 
