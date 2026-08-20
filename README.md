@@ -8,7 +8,7 @@
 Internet na Universidade UniCesumar
 <p align="left">
 
- 👨🏾‍💻Formado na faculdade UniCesumar
+ 
 <p align="left">
 
 ⌨️Atualmente estou aprendendo JavaScript, React.Js e Typescript
