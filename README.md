@@ -4,8 +4,8 @@
 </div>
 <h3>  | &nbsp;Um pouco sobre mim: </h3>
 
-👨🏾‍🎓Sou formado em Técnico em Sistemas para 
-Internet
+👨🏾‍🎓Graduado em Técnico em Sistemas para 
+Internet na Universidade UniCesumar
 <p align="left">
 
  👨🏾‍💻Formado na faculdade UniCesumar
